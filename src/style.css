@@ -296,3 +296,4 @@ body .notification-navigation.bg-white {background-color: transparent !important
 body .notifications-list-item:hover {background-color: #272c32 !important;}
 body .notifications-list-item .notification-list-item-link, body .notifications-list-item:hover .notification-list-item-link {color:#6a737d!important}
 body .notifications-list-item.notification-unread .notification-list-item-link, body .notifications-list-item.notification-unread:hover .notification-list-item-link {color:#fff !important;}
+body .signup-prompt-bg {background-image:linear-gradient(180deg,hsla(0,0%,100%,0) 50%,#272c32),linear-gradient(70deg,#24292e 32%,#272c32)}
