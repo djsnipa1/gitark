@@ -16,7 +16,7 @@ ready(function () {
 
     // import font
 
-    var css = "@import url('https://fonts.googleapis.com/css?family=Lexend+Deca&display=swap')";
+    var css = "@import url('https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed|Share+Tech+Mono&display=swap')";
     var font = document.createElement('style');
     font.type = 'text/css';
     if (font.styleSheet) {
